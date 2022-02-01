@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sumith 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on technology
+> 👋 Hi, I’m Sumith 
+> 👀 I’m interested in programming
+>  🌱 I’m currently learning python
+> 💞️ I’m looking to collaborate on technology
 
 ![](https://komarev.com/ghpvc/?username=Sumithgithub123)
 
