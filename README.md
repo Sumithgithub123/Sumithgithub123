@@ -1,6 +1,6 @@
 > 👋 Hi, I’m Sumith 
 > 👀 I’m interested in programming
->  🌱 I’m currently learning python
+>  🌱 I’m currently learning Web Development
 > 💞️ I’m looking to collaborate on technology
 
 ![](https://komarev.com/ghpvc/?username=Sumithgithub123)
