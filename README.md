@@ -4,7 +4,7 @@
 
 I'm a **Full Stack Developer with around 2 years of professional experience** building responsive and scalable web applications.
 
-My core stack includes **React.js, Next.js, Node.js, Express.js, TypeScript, and MongoDB**. I also have hands-on experience with **REST APIs, WebSockets, Redis, BullMQ, Kafka, Elasticsearch, Docker, and AWS EC2**.
+My core stack includes **React.js, Next.js, Node.js, Express.js, TypeScript, REST APIs, WebSockets and MongoDB**. I also have hands-on experience with **Redis, BullMQ, Kafka, Elasticsearch, Docker, and AWS EC2**.
 
 I'm also exploring **AI-native development, LLM applications, AI agents, RAG, LangChain, n8n, MCP, and AI coding agents**.
 
