@@ -229,10 +229,6 @@ APJ Abdul Kalam Technological University (KTU)
 
 ![](https://komarev.com/ghpvc/?username=Sumithgithub123)
 
-![Sumith Ev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumithgithub123&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumithgithub123&layout=compact)](https://github.com/Sumithgithub123/github-readme-stats)
-
 ---
 
 ## 🤝 Let's Connect
