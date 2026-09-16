@@ -191,8 +191,6 @@ A client project involving CRM and ERP-related workflows.
 
 I'm interested in using AI as an **engineering multiplier** rather than simply generating code.
 
-Areas I'm currently exploring:
-
 - AI-assisted code analysis
 - AI-assisted debugging
 - AI-assisted refactoring
