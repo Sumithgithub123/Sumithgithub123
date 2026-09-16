@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumith E V
 
-### Full Stack Developer | React.js | Node.js | TypeScript | AI-Native Development
+### Full Stack Web Developer | React.js | Node.js | TypeScript | AI-Native Development
 
 I'm a **Full Stack Developer with around 2 years of professional experience** building responsive and scalable web applications.
 
