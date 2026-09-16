@@ -23,7 +23,7 @@ I'm also exploring **AI-native development, LLM applications, AI agents, RAG, La
 - 🐳 Using **Docker** for application development
 - ☁️ Working with **AWS EC2**
 - 🤖 **AI-native development**
-- 🧠 Exploring **LLMs, AI Agents & RAG systems**
+- 🧠 Exploring **LLMs, AI Automation, AI Agents & RAG systems**
 
 ---
 
@@ -66,6 +66,7 @@ I'm also exploring **AI-native development, LLM applications, AI agents, RAG, La
 
 - AI-Native Development
 - LLM Applications
+- AI Automation
 - AI Agents
 - RAG
 - LangChain
@@ -196,6 +197,7 @@ I'm interested in using AI as an **engineering multiplier** rather than simply g
 - AI-assisted refactoring
 - AI coding agents
 - LLM applications
+- AI Automation
 - AI agents
 - Retrieval-Augmented Generation (RAG)
 - LangChain
