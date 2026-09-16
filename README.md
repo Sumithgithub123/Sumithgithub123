@@ -13,7 +13,7 @@ I'm also exploring **AI-native development, LLM applications, AI agents, RAG, La
 ## 🚀 About Me
 
 - 💻 Full Stack Developer focused on **React.js & Node.js**
-- ⚛️ Building responsive and reusable **React applications**
+- ⚛️ Building responsive and reusable **React & Next applications**
 - 🔧 Developing backend services and **REST APIs**
 - 🗄️ Working with **MongoDB & MySQL**
 - ⚡ Building real-time features using **WebSockets**
